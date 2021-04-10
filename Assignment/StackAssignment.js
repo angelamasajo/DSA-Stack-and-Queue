@@ -1,6 +1,7 @@
 const _Node = require('../Checkpoint/StackNode')
 
 class Stack {
+  // example: undo button functionality
   constructor() {
     this.top = null
   }
